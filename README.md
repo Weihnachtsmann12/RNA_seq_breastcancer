@@ -11,7 +11,7 @@ The following steps were performed on the IBU cluster in Bern:
   
 All the scripts for the steps above can be found in the directory "scripts".
 
-# 2. Work on the IBU cluster
+# 2. Work on the local machine
 The following steps were carried out on the local machine of the student in R-Studio:
 - Exploratory data analysis
 - Differetntial gene exrpession analysis
