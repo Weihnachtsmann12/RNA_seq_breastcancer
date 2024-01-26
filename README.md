@@ -9,7 +9,8 @@ The following steps were performed on the IBU cluster in Bern:
 - Converting SAM to BAM files
 - Counting the number of reads per gene
   
-All the scripts for the steps above can be found in the directory "scripts".
+All the scripts for the steps above can be found attached as .sh files.
+The samplelist that was used for running the SLURM-Arrays is also attached.
 
 # 2. Work on the local machine
 The following steps were carried out on the local machine of the student in R-Studio:
@@ -17,4 +18,4 @@ The following steps were carried out on the local machine of the student in R-St
 - Differetntial gene exrpession analysis
 - Overrepresentation analyis
 
-The R-script for the steps above can be found in the directory "R-script".
+The R-script for the steps above is attached as well.
