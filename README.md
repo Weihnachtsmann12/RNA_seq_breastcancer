@@ -10,6 +10,7 @@ The following steps were performed on the IBU cluster in Bern:
 - Counting the number of reads per gene
   
 All the scripts for the steps above can be found attached as .sh files.
+
 The samplelist that was used for running the SLURM-Arrays is also attached.
 
 # 2. Work on the local machine
