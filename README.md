@@ -11,12 +11,12 @@ The following steps were performed on the IBU cluster in Bern:
   
 All the scripts for the steps above (1.0-1.5) can be found attached as .sh files.
 
-The samplelist that was used for running the SLURM-Arrays is also attached.
+The samplelist, that was used for running the SLURM-Arrays is also attached.
 
 # 2. Work on the local machine
 The following steps were carried out on the local machine of the student in R-Studio:
 - Exploratory data analysis
-- Differetntial gene exrpession analysis
+- Differential gene exrpession analysis
 - Overrepresentation analyis
 
 The R-script for the steps above is attached as well.
