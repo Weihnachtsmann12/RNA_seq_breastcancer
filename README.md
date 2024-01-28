@@ -1,5 +1,5 @@
 # RNA_seq_breastcancer
-Repository for the documented code used for the analysis in the course "RNA-sequencing".
+Repository for the documented code from Matthias Rubin (08-172-090) used for the analysis in the course "RNA-sequencing".
 
 Project 1: Characterise gene expression differences between human breast cancer subtypes
 # 1. Work on the IBU cluster
