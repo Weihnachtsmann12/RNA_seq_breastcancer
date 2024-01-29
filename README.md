@@ -17,6 +17,6 @@ The samplelist, that was used for running the SLURM-Arrays is also attached.
 The following steps were carried out on the local machine of the student in R-Studio:
 - Exploratory data analysis
 - Differential gene exrpession analysis
-- Overrepresentation analyis
+- Overrepresentation analysis
 
 The R-script for the steps above is attached as well.
